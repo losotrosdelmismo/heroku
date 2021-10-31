@@ -1,7 +1,7 @@
 {
-  "name": "3era-entrega-final",
+  "name": "entrega-final",
   "version": "1.0.0",
-  "description": "3 era entrega del proyecto",
+  "description": "entrega final del proyecto",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,6 @@
     "rxjs": "^7.3.0",
     "socket.io": "^4.2.0",
     "winston": "^3.3.3"
-  }
+  },
+  "keywords": []
 }
