@@ -1,0 +1,33 @@
+Started phase 0, duration: 1s @ 11:24:19(-0300) 2021-09-09
+Report @ 11:24:20(-0300) 2021-09-09
+Elapsed time: 8 seconds
+  Scenarios launched:  50
+  Scenarios completed: 0
+  Requests completed:  0
+  Mean response/sec: NaN
+  Response time (msec):
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Errors:
+    ERR_INVALID_URL: 50
+
+All virtual users finished
+Summary report @ 11:24:20(-0300) 2021-09-09
+  Scenarios launched:  50
+  Scenarios completed: 0
+  Requests completed:  0
+  Mean response/sec: NaN
+  Response time (msec):
+    min: NaN
+    max: NaN
+    median: NaN
+    p95: NaN
+    p99: NaN
+  Scenario counts:
+    0: 50 (100%)
+  Errors:
+    ERR_INVALID_URL: 50
+

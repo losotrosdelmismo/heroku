@@ -1,0 +1,12 @@
+[
+    {
+        "mail": "losotrosdelmismo@gmail.com",
+        "password": 123,
+        "nombre": "Javier",
+        "direccion": "estoy en CABA",
+        "edad": 36,
+        "telefono": 1140832701,
+        "foto": "URL con foto?",
+        "id": 1
+    } 
+]

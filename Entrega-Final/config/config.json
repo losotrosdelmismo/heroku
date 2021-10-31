@@ -1,0 +1,4 @@
+{
+    "persistencia": "mongo",
+    "duracion_de_sesion": "10m" 
+} 

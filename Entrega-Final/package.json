@@ -1,0 +1,27 @@
+{
+  "name": "3era-entrega-final",
+  "version": "1.0.0",
+  "description": "3 era entrega del proyecto",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "cluster": "pm2 start server.js --name='server2' --watch -i max -- 8080"
+  },
+  "author": "Javier Falk",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mongoose": "^5.13.9",
+    "multer": "^1.4.3",
+    "nodemailer": "^6.6.3",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "rxjs": "^7.3.0",
+    "socket.io": "^4.2.0",
+    "winston": "^3.3.3"
+  }
+}

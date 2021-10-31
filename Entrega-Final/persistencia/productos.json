@@ -1,0 +1,39 @@
+[
+	{
+		"title": "Calculadora",
+		"price": 234.56,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+		"id": "1",
+		"actualizado": "Thu Jun 10 2021 18:25:23 GMT-0300 (Argentina Standard Time)"
+	},
+	{
+		"title": "Globo Terráqueo",
+		"price": 345.67,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+		"id": 2
+	},
+	{
+		"title": "Patito De Hule",
+		"price": 10,
+		"thumbnail": "https://cdn2.iconfinder.com/data/icons/free-3d-printer-icon-set/512/Plastic_model.png",
+		"id": 3
+	},
+	{
+		"title": "Casco De Daft Punk",
+		"price": 10000,
+		"thumbnail": "https://cdn2.iconfinder.com/data/icons/daft-punk-helments/512/Off.png",
+		"id": 4
+	},
+	{
+		"title": "DOOM",
+		"price": 666,
+		"thumbnail": "https://gamedocs.org/wp-content/uploads/2017/06/doom.jpg",
+		"id": 5
+	},
+	{
+		"title": "WORMS 2",
+		"price": 60,
+		"thumbnail": "https://i.blogs.es/cc19f4/worms-2-armageddon/1366_2000.jpg",
+		"id": 6
+	}
+]
